@@ -1,0 +1,22 @@
+.box {
+  width: 300px;
+  height: 300px;
+  border: 1px solid #ccc;
+  margin-top: 30px;
+  position: relative;
+  overflow: scroll;
+}
+
+.type {
+  position: absolute;
+  bottom: 0px;
+  right: 12px;
+  visibility: hidden;
+}
+
+.usr {
+  text-transform: uppercase;
+  font-weight: bold;
+}
+
+/*# sourceMappingURL=data:application/json;charset=utf-8,%7B%22version%22:3,%22sourceRoot%22:%22%22,%22sources%22:%5B%22../../src/view/scss/style.scss%22%5D,%22names%22:%5B%5D,%22mappings%22:%22AAAA;EACI;EACA;EACA;EACA;EACA;EACA;;;AAGJ;EACI;EACA;EACA;EACA;;;AAGJ;EACI;EACA%22,%22file%22:%22main.css%22%7D */
